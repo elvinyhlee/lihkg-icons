@@ -1,0 +1,10 @@
+# Lihkg Icons
+
+Collection of icons from [LIHKG (連登)](https://lihkg.com/)
+
+1. To add new icons, update `icon_path.py`
+2. To download icons, run `main.py` (idempotent)
+3. To update README after adding new icons, run `generate_readme.py`
+
+
+{body}
