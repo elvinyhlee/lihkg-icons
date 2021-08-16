@@ -277,7 +277,6 @@ class IconPath:
         'mouse/rubbish',
         'mouse/lihkg',
         # Hidden
-        'mouse/special',
         'mouse/vampire',
     ]
 
@@ -344,13 +343,13 @@ class IconPath:
     ]
 
     mapping = {
-        'normal': (normal, '普通'),
         'pig': (pig, '連豬'),
         'dog': (dog, '連狗'),
         'husky': (husky, 'Husky'),
         'cow': (cow, '連牛'),
         'cat': (cat, '連貓'),
         'mouse': (mouse, '連鼠'),
+        'normal': (normal, '普通'),
         'rip': (rip, 'RIP'),
         'lm2': (lm2, '腦魔'),
         'pigxm': (pigxm, '連豬聖誕版'),
